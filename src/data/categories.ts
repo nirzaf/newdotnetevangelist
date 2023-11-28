@@ -2,7 +2,7 @@
 export const CATEGORIES = [
 	'CSharp Related',
 	'Visual Studio & JetBrains Rider',
-	'Category 3',
-	'Category 4',
-	'Category 5'
+	'Dotnet Related',
+	'Azure Related',
+	'Blazor Related'
 ] as const
